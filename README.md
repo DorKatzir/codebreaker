@@ -15,9 +15,9 @@ A kid-friendly web app using Livewire, Laravel, and Tailwind that allows us to t
 
 - [Code-Breaking Workshop](https://laracasts.com/series/code-breaking-workshop) - Code-Breaking Workshop
 
-## Acknowledgments
+### Acknowledgments
 
-Thanks to [Jeffrey Way](https://laracasts.com)
+Thanks to [Jeffrey Way](https://laracasts.com) - the creator of Laracasts.
 
 
 

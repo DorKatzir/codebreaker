@@ -7,5 +7,10 @@ A kid-friendly web app using Livewire, Laravel, and Tailwind that allows us to t
 "code-breaking" worksheets where each letter in a secret message is represented as a symbol. They then refer to an alphabet lookup table, and perform the translation.
 
 
+### Screenshot
+
+![](./screenshot.png)
+
+
 
 

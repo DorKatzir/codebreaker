@@ -11,6 +11,14 @@ A kid-friendly web app using Livewire, Laravel, and Tailwind that allows us to t
 
 ![](./screenshot.png)
 
+### Useful resources
+
+- [Code-Breaking Workshop](https://laracasts.com/series/code-breaking-workshop) - Code-Breaking Workshop
+
+## Acknowledgments
+
+Thanks to [Jeffrey Way](https://laracasts.com)
+
 
 
 
